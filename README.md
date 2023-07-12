@@ -3,9 +3,11 @@ This is a to-do list application for each user different list is maintained usin
 
 ## Screenshots
 User 1
+
 <image align="left" width="300" src="./screenshots/1.jpg">
 <image align="center" width="300" src="./screenshots/2.jpg">
 
 User 2
+
 <image align="left" width="300" src="./screenshots/3.jpg">
 <image align="center" width="300" src="./screenshots/4.jpg">
